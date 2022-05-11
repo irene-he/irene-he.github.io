@@ -1,0 +1,20 @@
+- name: Mastermind # Project name, also used as heading
+  id: p1 # Project id, must be unique amongst the projects
+  img_src: /assets/img/mastermind.png # Optional image
+  description_less: A text input version of the mastermind board game with a twist -- it includes an AI option (AI HARDMODE) that uses Donald Knuth's winning algorithm. # Description shown at all times, text only
+  description_more:
+    > # Description shown only when the project card is expanded, HTML only
+    <p>More details can be found on my Github repository.</p>
+  action_buttons: > # Action buttons for project, HTML only
+    <a href="https://github.com/irene-he/mastermind" target="https://github.com/irene-he/mastermind" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  tags: [java] # A list of tags
+
+- name: Slime Shooter
+  id: p2
+  img_src: /asserts/img/slimeshooter.png
+  description_less: Type in x and y-intercepts to shoot slimes spawned on a coordinate grid!
+  description_more: >
+    <p>More details can be found on my Github repository.</p>
+  action_buttons: >
+    <a href="https://github.com/irene-he/slimeshooter" target="https://github.com/irene-he/slimeshooter" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  tags: [java]
