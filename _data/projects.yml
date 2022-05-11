@@ -11,7 +11,7 @@
 
 - name: Slime Shooter
   id: p2
-  img_src: /asserts/img/slimeshooter.png
+  img_src: /assets/img/slimeshooter.png
   description_less: Type in x and y-intercepts to shoot slimes spawned on a coordinate grid!
   description_more: >
     <p>More details can be found on my Github repository.</p>
