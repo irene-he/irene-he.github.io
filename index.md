@@ -10,7 +10,7 @@ sitemap:
 
 <p class="describe-text">Hello There!</p>
 <br>
-I'm Irene He a computer science student at the University of Waterloo. I'm currently looking for a Spring 2023 internship so please feel free to reach out! If you have any questions for me please [contact me](mailto:i6he@uwaterloo.ca).
+I'm Irene He a 4th year Computer Science student at the University of Waterloo. I have experience in Full Stack, Frontend and Mobile development from 4 prior internships. When I'm not working or studying for school, I enjoy building random things. Please feel free to check out my projects!
 
 <br>
 <br>

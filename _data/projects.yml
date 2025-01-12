@@ -1,5 +1,26 @@
+- name: Spotify Wrapped
+  id: p1
+  img_src: /assets/img/spotify-wrapped.png
+  description_less: It's like Spotify Wrapped but it displays your monthly stats
+  description_more: >
+    <p>More details can be found on my Github repository.</p>
+  action_buttons: >
+    <a href="https://github.com/irene-he/spotify-wrapped" target="https://github.com/irene-he/spotify-wrapped" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  tags: [ExpressJs, React]
+
+- name: Mindfulgram # Project name, also used as heading
+  id: p2 # Project id, must be unique amongst the projects
+  img_src: /assets/img/mindfulgram.png # Optional image
+  description_less: A Chrome extension to help you use Instagram mindfully
+  description_more:
+    > # Description shown only when the project card is expanded, HTML only
+    <p>More details can be found on my Github repository.</p>
+  action_buttons: > # Action buttons for project, HTML only
+    <a href="https://github.com/irene-he/mindfulgram" target="https://github.com/irene-he/mindfulgram" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  tags: [React] # A list of tags
+
 - name: Mastermind # Project name, also used as heading
-  id: p1 # Project id, must be unique amongst the projects
+  id: p3 # Project id, must be unique amongst the projects
   img_src: /assets/img/mastermind.png # Optional image
   description_less: A text input version of the mastermind board game with a twist -- it includes an AI option (AI HARDMODE) that uses Donald Knuth's winning algorithm. # Description shown at all times, text only
   description_more:
@@ -7,14 +28,15 @@
     <p>More details can be found on my Github repository.</p>
   action_buttons: > # Action buttons for project, HTML only
     <a href="https://github.com/irene-he/mastermind" target="https://github.com/irene-he/mastermind" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-  tags: [java] # A list of tags
+  tags: [Java] # A list of tags
 
-- name: Slime Shooter
-  id: p2
-  img_src: /assets/img/slimeshooter.png
-  description_less: Type in x and y-intercepts to shoot slimes spawned on a coordinate grid!
-  description_more: >
+- name: Unshortlister # Project name, also used as heading
+  id: p4 # Project id, must be unique amongst the projects
+  img_src: /assets/img/unshortlister.png # Optional image
+  description_less: A Selenium script for unshortlisting jobs on WaterlooWorks
+  description_more:
+    > # Description shown only when the project card is expanded, HTML only
     <p>More details can be found on my Github repository.</p>
-  action_buttons: >
-    <a href="https://github.com/irene-he/slimeshooter" target="https://github.com/irene-he/slimeshooter" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-  tags: [java]
+  action_buttons: > # Action buttons for project, HTML only
+    <a href="https://github.com/irene-he/unshortlister" target="https://github.com/irene-he/unshortlister" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  tags: [React] # A list of tags
