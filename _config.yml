@@ -2,13 +2,13 @@ title: Irene He # Shown in header on pages with full_logo: true
 short_logo: IH. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   A minimalistic personal website for showcasing my projects.
-url: "irene-he.github.io" # Site base URL
+url: "https://irene-he.github.io" # Site base URL
 author:
   name: Irene He
   github: irene-he # GitHub username, used for GitHub icon on the top right
   linkedin: irenehee # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   email: i6he@uwaterloo.com # Used for email icon on the top right
-  homepage: irene-he.github.io # This links to your name in post meta
+  homepage: https://irene-he.github.io # This links to your name in post meta
   twitter: # Twitter username, used for Twitter Card Analytics
 
 disqus_name: # Setting this will turn on Disqus comments
