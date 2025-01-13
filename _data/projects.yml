@@ -6,7 +6,7 @@
     <p>More details can be found on my Github repository.</p>
   action_buttons: >
     <a href="https://github.com/irene-he/spotify-wrapped" target="https://github.com/irene-he/spotify-wrapped" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-  tags: [ExpressJs, React]
+  tags: [Express, React]
 
 - name: Mindfulgram # Project name, also used as heading
   id: p2 # Project id, must be unique amongst the projects
@@ -39,4 +39,4 @@
     <p>More details can be found on my Github repository.</p>
   action_buttons: > # Action buttons for project, HTML only
     <a href="https://github.com/irene-he/unshortlister" target="https://github.com/irene-he/unshortlister" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-  tags: [React] # A list of tags
+  tags: [Python] # A list of tags
